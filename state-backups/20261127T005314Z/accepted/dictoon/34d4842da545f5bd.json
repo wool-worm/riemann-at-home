@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "34d4842da545f5bd",
+  "machine": {
+    "os": "Linux 6.18.40.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T22:25:54Z",
+  "recorded": "2026-11-27T00:45:34Z",
+  "busy_seconds": 8255,
+  "modules_compiled": 6805,
+  "bitmap_b64": "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",
+  "olean_digest": "53847e72e30edb7169cea03773a6b57d55a2d4324032edbdc056aca7b72f70db",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Francois Beaune"
+}

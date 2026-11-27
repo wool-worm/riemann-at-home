@@ -1,0 +1,29 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "fc7b1f41e13773f2",
+  "machine": {
+    "os": "Linux 7.0.0-43-generic",
+    "arch": "x86_64",
+    "cpu": "Intel(R) Xeon(R) Gold 6240 CPU @ 2.60GHz",
+    "cores": 72
+  },
+  "started": "2026-11-26T15:58:54Z",
+  "recorded": "2026-11-26T16:18:12Z",
+  "busy_seconds": 1150,
+  "modules_compiled": 803,
+  "bitmap_b64": "H4sIAAAAAAAC//v/n/aAHQAeG9rWZQAAAA==",
+  "olean_digest": "bd16fa8eb50e7b53da8bd074f6d63b9db134fc9874a884084d9f708e9c926183",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false
+}

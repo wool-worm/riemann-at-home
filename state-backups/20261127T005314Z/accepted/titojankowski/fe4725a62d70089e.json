@@ -1,0 +1,35 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "fe4725a62d70089e",
+  "machine": {
+    "os": "Darwin 25.4.0",
+    "arch": "arm64",
+    "cpu": "Apple M5 Max",
+    "cores": 18
+  },
+  "started": "2026-11-21T15:26:02Z",
+  "recorded": "2026-11-26T00:16:36Z",
+  "busy_seconds": 231594,
+  "modules_compiled": 175187,
+  "bitmap_b64": "H4sIAAAAAAAC/+3BMQ0AAAACoNP+ibWHA1oAAAAAAAAAAAAAAAAAAAAAAAAAAIB3GZLmPp+LVQAA",
+  "olean_digest": "e429bc8727c50ce7b61feb4620f5381cbc8a9094caaa051d5100ff9c51c5b05a",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false,
+  "export_progress": {
+    "bytes": 34726035456,
+    "seconds": 2422,
+    "left_seconds": 1728,
+    "peak_memory_gb": 56.69,
+    "done": false
+  }
+}

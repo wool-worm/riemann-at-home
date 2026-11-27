@@ -1,0 +1,171 @@
+{
+ "Fornax96": {
+  "whole": "2026-11-24T04:58:10Z",
+  "validated": "2026-11-25T00:38:19Z",
+  "hours": 15.9,
+  "whole_300k": "2026-11-26T15:04:23Z",
+  "hours_300k": 0.3
+ },
+ "derek-blanchette": {
+  "whole": "2026-11-22T21:00:30Z",
+  "validated": "2026-11-23T03:46:38Z",
+  "hours": 18.7,
+  "whole_300k": "2026-11-26T02:35:37Z",
+  "hours_300k": 0.4
+ },
+ "ericpruitt": {
+  "whole": "2026-11-23T06:37:43Z",
+  "validated": "2026-11-23T10:20:07Z",
+  "hours": 9.0
+ },
+ "gebhardtr": {
+  "whole": "2026-11-25T05:29:18Z",
+  "validated": "2026-11-25T17:59:52Z",
+  "hours": 60.4
+ },
+ "jasonhansel": {
+  "whole": "2026-11-22T19:23:00Z",
+  "validated": "2026-11-23T07:24:55Z",
+  "hours": 11.4
+ },
+ "puellavulnerata": {
+  "whole": "2026-11-25T18:31:32Z",
+  "validated": "2026-11-25T20:14:34Z",
+  "hours": 13.9
+ },
+ "rib3ye": {
+  "whole": "2026-11-24T02:09:34Z",
+  "validated": "2026-11-25T04:32:20Z",
+  "hours": 48.6
+ },
+ "sanzgiri": {
+  "whole": "2026-11-24T22:57:31Z",
+  "hours": 41.0
+ },
+ "titojankowski": {
+  "whole": "2026-11-24T11:55:23Z",
+  "hours": 64.3,
+  "whole_300k": "2026-11-26T01:45:30Z",
+  "hours_300k": 0.2
+ },
+ "ununhexium": {
+  "whole": "2026-11-24T17:07:43Z",
+  "hours": 57.5
+ },
+ "xangma": {
+  "whole": "2026-11-22T19:20:57Z",
+  "validated": "2026-11-25T17:18:33Z",
+  "hours": 16.4
+ },
+ "VoX": {
+  "whole_300k": "2026-11-26T02:17:31Z",
+  "hours_300k": 0.5
+ },
+ "talonius": {
+  "whole_300k": "2026-11-26T04:20:54Z",
+  "hours_300k": 0.2
+ },
+ "apoland": {
+  "whole_300k": "2026-11-26T04:29:38Z",
+  "hours_300k": 0.9
+ },
+ "cardoso-neto": {
+  "whole_300k": "2026-11-26T04:56:52Z",
+  "hours_300k": 0.5
+ },
+ "kevmo314": {
+  "whole_300k": "2026-11-26T05:13:12Z",
+  "hours_300k": 0.3,
+  "whole": "2026-11-26T15:32:31Z",
+  "hours": 9.9,
+  "validated": "2026-11-26T16:48:00Z"
+ },
+ "Genbox": {
+  "whole": "2026-11-26T06:02:21Z",
+  "hours": 88.1
+ },
+ "anupamk": {
+  "whole_300k": "2026-11-26T07:24:40Z",
+  "hours_300k": 0.2
+ },
+ "jk563": {
+  "whole_300k": "2026-11-26T08:49:39Z",
+  "hours_300k": 0.8
+ },
+ "dominik-alexander-mueller": {
+  "whole": "2026-11-26T02:40:14Z",
+  "hours": 94.6,
+  "whole_300k": "2026-11-26T10:35:13Z",
+  "hours_300k": 1.5
+ },
+ "milhouse1337": {
+  "whole": "2026-11-26T11:54:54Z",
+  "hours": 90.6
+ },
+ "alexkowalenko": {
+  "whole_300k": "2026-11-26T12:42:49Z",
+  "hours_300k": 0.6
+ },
+ "tgragnato": {
+  "whole_300k": "2026-11-26T13:28:14Z",
+  "hours_300k": 1.0
+ },
+ "ptescher": {
+  "whole_300k": "2026-11-26T13:50:46Z",
+  "hours_300k": 6.0
+ },
+ "janfrode": {
+  "whole_300k": "2026-11-26T14:09:56Z",
+  "hours_300k": 1.2
+ },
+ "RealMonk": {
+  "whole_300k": "2026-11-26T14:32:53Z",
+  "hours_300k": 0.3
+ },
+ "nuwanprabhath": {
+  "whole_300k": "2026-11-26T14:44:45Z",
+  "hours_300k": 2.2
+ },
+ "dhoeppne": {
+  "whole_300k": "2026-11-26T16:18:12Z",
+  "hours_300k": 0.3
+ },
+ "gero-stack": {
+  "whole_300k": "2026-11-26T17:10:16Z",
+  "hours_300k": 0.9
+ },
+ "nwinter": {
+  "whole_300k": "2026-11-26T17:56:30Z",
+  "hours_300k": 0.4
+ },
+ "ksdme": {
+  "whole_300k": "2026-11-26T18:51:35Z",
+  "hours_300k": 12.0
+ },
+ "connellmcg": {
+  "whole_300k": "2026-11-26T20:04:31Z",
+  "hours_300k": 4.8
+ },
+ "IvanCherepov": {
+  "whole_300k": "2026-11-26T20:15:03Z",
+  "hours_300k": 5.3
+ },
+ "JustinAzoff": {
+  "whole_300k": "2026-11-26T21:12:45Z",
+  "hours_300k": 0.2,
+  "whole": "2026-11-27T03:36:35Z",
+  "hours": 12.9
+ },
+ "yum-food": {
+  "whole_300k": "2026-11-26T21:30:21Z",
+  "hours_300k": 0.3
+ },
+ "dictoon": {
+  "whole_300k": "2026-11-26T22:25:50Z",
+  "hours_300k": 0.6
+ },
+ "bendian64": {
+  "whole_300k": "2026-11-26T20:30:50Z",
+  "hours_300k": 0.9
+ }
+}

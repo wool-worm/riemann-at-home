@@ -1,0 +1,38 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "d8bfa2f6cd0c06ca",
+  "machine": {
+    "os": "Linux 6.12.90+deb13.1-amd64",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper PRO 9975WX 32-Cores",
+    "cores": 64
+  },
+  "started": "2026-11-22T21:36:40Z",
+  "recorded": "2026-11-23T17:37:15Z",
+  "busy_seconds": 32396,
+  "modules_compiled": 175187,
+  "bitmap_b64": "H4sIAAAAAAACA+3BMQ0AAAACoNP+ibWHA1oAAAAAAAAAAAAAAAAAAAAAAAAAAIB3GZLmPp+LVQAA",
+  "olean_digest": "4f78fe7fc804ee81a2a9a131b531b2d03eb485ccd6bd7000c64a0e46aff4d358",
+  "whole_proof": true,
+  "axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "final": false,
+  "export_progress": {
+    "bytes": 61570595788,
+    "seconds": 9916,
+    "left_seconds": null,
+    "peak_memory_gb": 140.85,
+    "done": true
+  },
+  "export_sha256": "5ea74b912147c5c93cc2b6d70cc727cf908df2f62ac6a20480a3fa02f6be244e",
+  "export_bytes": 61570595788,
+  "sign_statement": true
+}
